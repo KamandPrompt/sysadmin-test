@@ -2,10 +2,10 @@
 
 ## Problem Statement
 
-1. We need maximum information of all the PCs in the `iitmandi.ac.in` network, i.e. `14.139.34.0/24` which are exposed to the internet. For instance, port 80 is for HTTP, and `students.iitmandi.ac.in` has port 80 open. I can confirm that by running the following command:
+1. We need maximum information of all the PCs in the `iitmandi.ac.in` network, i.e. `14.139.34.0/24` which are exposed to the internet. For instance, port 443 is for HTTPS, and `students.iitmandi.ac.in` has port 443 open, that is why we see `https://students.iitmandi.ac.in`(notice the `https` before`). You can confirm that by running the following command:
 
 ```bash
-telnet 14.139.34.3 80
+telnet 14.139.34.3 443
 ```
 
 and this is the output I get:
@@ -16,7 +16,7 @@ Connected to 14.139.34.3.
 Escape character is '^]'.
 ```
 
-which implies port 80 is open on `14.139.34.3`. You need to find out all the PCs which are public facing and all their ports open and what kind of operating system they are running on. Any other information would be a bonus.
+which implies port 443 is open on `14.139.34.3`. You need to find out all the PCs which are public facing and all their ports open and what kind of operating system they are running on. Any other information would be a bonus.
 
 2. For `students.iitmandi.ac.in`, you need to find out from what company the domain has been bought. For instance, I bought `sahilarora535.me` domain name from [Namecheap.me](https://nc.me/). You need to find out from where did the institute buy the domain `students.iitmandi.ac.in`.
 
