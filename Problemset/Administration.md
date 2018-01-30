@@ -29,6 +29,6 @@ Your task is very simple. You need to signup on AWS / Digitalocean / some other 
 In your git repository whose link you will be submitting, make a folder `Administration` with 2 file in it:
 
 1. `README.md`: Here you need to report your findings, how you did this, what all resources you took help from, and what you learnt.
-2. `VPNSetup.md`: This should contain the steps required for anyone to use your VPN. For instance, we use `SurfEasy` or `Psiphon` as a VPN in our smartphones. We need to be able to connect any device, either a smartphone or a PC, with your custom VPN.
+2. `VPNSetup.md`: This should contain the steps required for anyone to use your VPN. For instance, we use `SurfEasy` or `Psiphon` as a VPN in our smartphones. We need to be able to connect **ANY ONE DEVICE**, either a smartphone or a PC, with your custom VPN (though if you setup coorectly, it should work for both without any issues).
 
 Remember, do not worry if you are unable to complete it, just document whatever you were able to do. :) 
