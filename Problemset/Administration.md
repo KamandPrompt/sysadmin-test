@@ -21,6 +21,12 @@ Your task is very simple. You need to signup on AWS / Digitalocean / some other 
 
 **NOTE:** If you go with any of the virtual machine providers, remember to switch off the servers when not in use, else you may face additional charges.
 
+***UPDATE***: Here is the link to a $10 free Digitalocean referral, so you get $10 is you sign up on DigitalOcean with this link, equivalent of 2 months of CPU storage. It's upto you which one to choose now, DigitalOcean or AWS, you have both of them free. 
+
+Creating a virtual server on Digital Ocean is easy, and now you have 2 free months, so you can go with that. If you want to go for AWS, no issues, your decision totally. :-)
+
+***Link: <https://m.do.co/c/537792c0a0f6>***
+
 ## Weightage
 
 1. 50 points
