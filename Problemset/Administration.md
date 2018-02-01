@@ -25,7 +25,7 @@ Your task is very simple. You need to signup on AWS / Digitalocean / some other 
 
 Creating a virtual server on Digital Ocean is easy, and now you have 2 free months, so you can go with that. If you want to go for AWS, no issues, your decision totally. :-)
 
-***Link: <https://m.do.co/c/537792c0a0f6>***
+***Link: <https://m.do.co/c/fc3343ab2be0>***
 
 ## Weightage
 
