@@ -39,6 +39,12 @@ Please find the problems in the [`Problemset`](https://github.com/KamandPrompt/s
 
 You can find the individual weightage for each problem in the problem statement itself.
 
+## Resources
+
+Since you are students, you are eligible for Github student pack with which you get $50 in DigitalOcean credits and $50-$115 in AWS credits. You also get a lot of other things. Please check it out, it may be useful to you.
+
+**Link: <https://education.github.com/pack>**
+
 ## Issues with the Problems
 
 If you have any issues with any problem, please open an issue in this repository.
