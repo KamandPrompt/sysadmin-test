@@ -4,7 +4,7 @@
 
 This problem deals with playing around docker (<https://www.docker.com/>), which is a containerization technology. Your task is simple.
 
-Upload an ubuntu docker image to [docker store](https://store.docker.com/) with your username. This image should contain a file in the `/home` directory with the name `testfile.sh` and the following contents:
+Upload an ubuntu docker image to [docker store](https://store.docker.com/) or [docker hub](https://hub.docker.com/) with your username. This image should contain a file in the `/home` directory with the name `testfile.sh` and the following contents:
 
 ```txt
 #!/bin/sh
