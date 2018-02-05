@@ -28,7 +28,7 @@ Anybody around the world if has to do this, he must be able to type a simple com
 
 In your git repository whose link you will be submitting, make 2 files:
 
-1. `Docker.md`: Here you need to write the report as to how you did this, what all resources you took help from, and what you learnt.
+1. `Docker.md`: Here you need to write the report as to how you did this, what all resources you took help from, and what you learnt. You also need to give a link to your image on `docker store`/`docker hub`.
 2. `Dockerimage`: This file should have the name of the image which you set, i.e. `IMAGE_NAME`. For instance, if the name of your image is `sahilarora535/testimage`, this should be the only content in this file.
 
 Remember, do not worry if you are unable to complete it, just document whatever you were able to do. :) 
