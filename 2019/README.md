@@ -17,11 +17,27 @@ The criteria for judging this assignment is as follows:
 3. It is not compulsory to solve all the problems, but it would be great if you attempt all.
 4. If someone solves multiple problems but the solutions are not optimized, and if someone else solves lesser problems but does it amazingly, the latter will be given more marks. Quality of solution is our utmost priority. So it is recommended to try to do whatever you do with great dexterity. You need to strike a balance between how good a solution should be and how much time should be given to a problem. If you give too much time on one problem, you will miss out the others, so plan accordingly.
 5. Everything you do should be **well-documented**. Any great solution is a waste if nobody can understand it. You are expected to write an exhaustive report for whatever questions you attempt and your solution will be judged via your report.
-6. ***MOST IMPORTANTLY*** you must understand that the aim of the assignment is not to test your current skillset, but the knack for knowledge you have. Even if you solve a problem 10%, 5%, it matters. So even if you are unable to do complete a problem, try to document whatever progress you have made so we can help you out to make you better. **NeverSettle**.
+6. ***MOST IMPORTANTLY*** you must understand that the aim of the assignment is not to test your current skillset, but the knack for knowledge you have. Even if you solve a problem 10%, 5%, it matters. So even if you are unable to do complete a problem, try to document whatever progress you have made so we can help you out to make you better.
 
 ## Deliverables
 
 Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, you will be responsible if someone plagiarises your solution.
+
+## Deadlines
+
+The **STRICT DEADLINE** for the assignment is ***26th May, 2019 23:59 hrs***. Any commit in the git repository with a later date will not be considered.
+
+Also, you need to share with us the link to your git repository when asked.
+
+## Problems
+
+Please find the problems in the [`Problemset`](https://github.com/KamandPrompt/sysadmin-test/tree/master/2019/Problemset) directory in this repository.
+
+## Weightage of problems
+
+***TOTAL WEIGHTAGE: 535 points***
+
+You can find the individual weightage for each problem in the problem statement itself.
 
 ## Resources
 

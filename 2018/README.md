@@ -23,6 +23,22 @@ The criteria for judging this assignment is as follows:
 
 Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, you will be responsible if someone plagiarises your solution.
 
+## Deadlines
+
+The **STRICT DEADLINE** for the assignment is ***10th February, 2018 00:00 hrs***. Any commit in the git repository with a later date will not be considered.
+
+Also, you need to share with us the link to your git repository when asked.
+
+## Problems
+
+Please find the problems in the [`Problemset`](https://github.com/KamandPrompt/sysadmin-test/tree/master/2018/Problemset) directory in this repository.
+
+## Weightage of problems
+
+***TOTAL WEIGHTAGE: 535 points***
+
+You can find the individual weightage for each problem in the problem statement itself.
+
 ## Resources
 
 Since you are students, you are eligible for Github student pack with which you get $50 in DigitalOcean credits and $50-$115 in AWS credits. You also get a lot of other things. Please check it out, it may be useful to you.
