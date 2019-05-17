@@ -1,4 +1,4 @@
-# SNTC Server System Administator Test
+# SNTC Server System Administator Test 2019
 
 This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.
 
@@ -21,7 +21,7 @@ The criteria for judging this assignment is as follows:
 
 ## Deliverables
 
-Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, you will be responsible if someone plagiarises your solution.
+Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, **you will be responsible if someone plagiarises your solution**.
 
 ## Deadlines
 
@@ -35,13 +35,13 @@ Please find the problems in the [`Problemset`](https://github.com/KamandPrompt/s
 
 ## Weightage of problems
 
-***TOTAL WEIGHTAGE: 535 points***
+***TOTAL WEIGHTAGE: 555 points***
 
 You can find the individual weightage for each problem in the problem statement itself.
 
 ## Resources
 
-Since you are students, you are eligible for Github student pack with which you get $50 in DigitalOcean credits and $50-$115 in AWS credits. You also get a lot of other things. Please check it out, it may be useful to you.
+Since you are students, you are eligible for Github student pack with which you get $50 in DigitalOcean credits, $100 in Microsoft Azure and $75-$150 in AWS credits. You also get a lot of other things. Please check it out, it may be useful to you.
 
 **Link: <https://education.github.com/pack>**
 

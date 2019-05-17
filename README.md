@@ -1,6 +1,9 @@
 # SNTC Server System Administator Test
 
 This repository has been made specifically for selection of volunteers who can be administrators to the SNTC server now and in the future.
+The first such test was help in  2018 and now its second iteration is being held in May 2019.
+
+The problem set from both years are available in the respective titled folder.
 
 ## About the problemset
 
@@ -21,7 +24,7 @@ The criteria for judging this assignment is as follows:
 
 ## Deliverables
 
-Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, you will be responsible if someone plagiarises your solution.
+Every problem may have a different set of deliverables. You will find the deliverables for each problem with the problem statement itself. In general, you need to submit all your deliverables in on a repository on Github / Gitlab. Please note that in case you make your repository public, **you will be responsible if someone plagiarises your solution**.
 
 ## Resources
 
